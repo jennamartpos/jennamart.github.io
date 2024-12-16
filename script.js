@@ -1,3 +1,5 @@
+$('#vercel-live-feedback-full-frame').hide();
+
 function setCookie(cname, cvalue) {
     const d = new Date();
     d.setTime(d.getTime() + (10 * 24 * 60 * 60 * 1000));
