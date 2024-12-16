@@ -375,19 +375,14 @@ const products = [
         "pluname": "Sweety L28",
         "price": 43000,
         "img": "https://arti-assets.sgp1.digitaloceanspaces.com/renyswalayanku/products/b889a335-b9d0-486e-9f14-389aa5f625b5.jpg"
-    }, {
-        "id": 72,
-        "pluname": "KA 6gr 10pcs",
-        "price": 8000,
-        "img": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/4/24/cefbeb2f-8fc9-4172-a50a-34c2543d1caf.jpg"
-    }, {
+    } , {
         "id": 73,
-        "pluname": "KA 23gr 10pcs",
+        "pluname": "Kapal Api 23gr 10pcs",
         "price": 18000,
         "img": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/10/7/34e93ca8-ded4-4ddf-9825-f674a4e60e52.jpg"
     }, {
         "id": 74,
-        "pluname": "KA 60gr",
+        "pluname": "Kapal Api 60gr",
         "price": 8500,
         "img": "https://assets.klikindomaret.com/products/10000304/10000304_1.webp"
     }, {
