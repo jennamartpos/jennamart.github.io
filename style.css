@@ -129,3 +129,7 @@ ion-card-header{
 #PrintInvoice{
   display: none;
 }
+
+#vercel-live-feedback-full-frame{
+  display: none !important;
+}
